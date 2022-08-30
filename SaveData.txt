@@ -1,0 +1,1 @@
+{"MovieList":[{"Title":"Rambo III","Length":"0001-01-01T01:42:00","Genre":"Action","ReleaseDate":"0001-01-01T00:00:00.0001958","WWW":"https.\\\\netflix.com/rambo3.mp4"}],"SeriesList":[],"AlbumList":[{"Album":"Selin","Title":"Chaprazla","Length":"0001-01-01T00:00:00","ReleaseDate":"1999-07-20T00:00:00"}]}
